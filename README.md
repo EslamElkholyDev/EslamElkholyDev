@@ -47,19 +47,16 @@ Building scalable backend applications and RESTful APIs with C# and .NET.
 
 ---
 
+
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EslamElkholyDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EslamElkholyDev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EslamElkholyDev&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p align="center">
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EslamElkholyDev&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=EslamElkholyDev&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EslamElkholyDev&color=007ACC&style=flat-square&label=Profile+Views" />
-</p>
