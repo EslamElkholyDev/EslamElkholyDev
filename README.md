@@ -50,6 +50,5 @@ Building scalable backend applications and RESTful APIs with C# and .NET.
   <img src="https://github-readme-stats.shion.dev/api?username=EslamElkholyDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="490" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EslamElkholyDev&color=007ACC&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
 </p>
